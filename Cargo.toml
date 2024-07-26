@@ -1,5 +1,5 @@
 [package]
-name = "Drawing_Tables_in_Rust"
+name = "Draw_Tables"
 version = "0.1.0"
 edition = "2021"
 
